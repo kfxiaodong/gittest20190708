@@ -1,0 +1,6 @@
+first step: include jQuery
+second Create an html project or other
+third send ajax to Server with 3 methods 
+  1.  $.ajax({....})
+  2.  $.post({...})
+  3.  $.get({...})
